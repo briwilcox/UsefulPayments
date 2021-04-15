@@ -1,4 +1,4 @@
-# UsefulPayments
+# Useful Payments
 Useful articles and mental models about the payment industry.
 
 The payments industry fascinates me and has a variety of unique advantages and network effects absent in other industries. Almost no other industries have total addressible markets in the multi-trillions of dollars, are early in their adoption S curve, and strong built in network effects. Digital payments be they VISA, the Bitcoin lightening network, Cash App, or Venmo are competing with slow dirty and easily stolen cash. As always nothing from me is investment advice. 
